@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.xiangyang.dubbo.iml" filepath="$PROJECT_DIR$/com.xiangyang.dubbo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../com.xiangyang.dubbo-api/com.xiangyang.dubbo-api.iml" filepath="$PROJECT_DIR$/../com.xiangyang.dubbo-api/com.xiangyang.dubbo-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../com.xiangyang.dubbo-consumer/com.xiangyang.dubbo-consumer.iml" filepath="$PROJECT_DIR$/../com.xiangyang.dubbo-consumer/com.xiangyang.dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xiangyang.dubbo-api/com.xiangyang.dubbo-api.iml" filepath="$PROJECT_DIR$/com.xiangyang.dubbo-api/com.xiangyang.dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xiangyang.dubbo-consumer/com.xiangyang.dubbo-consumer.iml" filepath="$PROJECT_DIR$/com.xiangyang.dubbo-consumer/com.xiangyang.dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xiangyang.dubbo-producer/com.xiangyang.dubbo-producer.iml" filepath="$PROJECT_DIR$/com.xiangyang.dubbo-producer/com.xiangyang.dubbo-producer.iml" />
     </modules>
   </component>
 </project>
