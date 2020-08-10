@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/com.xiangyang.dubbo-api/pom.xml" />
         <option value="$PROJECT_DIR$/com.xiangyang.dubbo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/com.xiangyang.dubbo-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

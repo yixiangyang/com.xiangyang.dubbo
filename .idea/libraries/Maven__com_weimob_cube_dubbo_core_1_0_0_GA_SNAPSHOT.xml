@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weimob:cube-dubbo-core:1.0.0-GA-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-dubbo-core/1.0.0-GA-SNAPSHOT/cube-dubbo-core-1.0.0-GA-20191008.033918-39.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-dubbo-core/1.0.0-GA-SNAPSHOT/cube-dubbo-core-1.0.0-GA-20191008.033918-39-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-dubbo-core/1.0.0-GA-SNAPSHOT/cube-dubbo-core-1.0.0-GA-20191008.033918-39-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

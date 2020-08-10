@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weimob:cube-core:1.0.0-GA-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-core/1.0.0-GA-SNAPSHOT/cube-core-1.0.0-GA-20190922.160453-29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-core/1.0.0-GA-SNAPSHOT/cube-core-1.0.0-GA-20190922.160453-29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weimob/cube-core/1.0.0-GA-SNAPSHOT/cube-core-1.0.0-GA-20190922.160453-29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

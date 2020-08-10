@@ -8,12 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.xiangyang.dubbo-consumer" />
-        <module name="com.xiangyang.dubbo-producer" />
         <module name="com.xiangyang.dubbo-api" />
         <module name="com.xiangyang.dubbo (2)" />
+        <module name="com.xiangyang.dubbo" />
+        <module name="com.xiangyang.dubbo-producer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.xiangyang.dubbo" target="1.8" />
       <module name="com.xiangyang.dubbo-api" target="1.8" />
       <module name="com.xiangyang.dubbo-consumer" target="1.8" />
       <module name="com.xiangyang.dubbo-consumer (1)" target="1.8" />
@@ -22,6 +24,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.xiangyang.dubbo" options="-parameters" />
       <module name="com.xiangyang.dubbo-api" options="-parameters" />
       <module name="com.xiangyang.dubbo-consumer" options="-parameters" />
       <module name="com.xiangyang.dubbo-consumer (1)" options="-parameters" />
